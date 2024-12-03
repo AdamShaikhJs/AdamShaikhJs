@@ -1,7 +1,6 @@
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-areeb-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/areeb--01629954/)](https://www.linkedin.com/feed/)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-areeb-yellow)](https://stackoverflow.com/users/22711268/shaikh-adam)
+
 
 I'm a **Frontend Developer** passionate about building beautiful and efficient user experiences with a focus on React.js and modern web technologies.
 I have experience with:
