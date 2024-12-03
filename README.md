@@ -15,7 +15,7 @@ I have experience with:
 <div>
   <h4>🏆 GitHub Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AdamShaikh&theme=onedark&column=6"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=AdamShaikh"/>
   </a>
 </div>
 
